@@ -1,4 +1,4 @@
-# üK M187 - Zusammenfassung
+# ÜK M187 - Zusammenfassungen
 
 Eine Sammlung der täglichen Zusammenfassungen für den überbetrieblichen Kurs M187. 
 Entweder als PDF oder der Link zu der jeweiligen Notion Datei
