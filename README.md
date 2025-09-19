@@ -14,5 +14,5 @@ Entweder als PDF oder der Link zu der jeweiligen Notion Datei
 - [M187 Tag 2](https://m187.ict-bz.ch/tag-2)
 
 ### Tag 3
--
--
+- [Zusammenfassung](https://www.notion.so/M187-Tag-3-2737bcf25d4180c5afe8c05bdd540323?source=copy_link)
+- [Zusammenfassung](https://m187.ict-bz.ch/tag-3)
